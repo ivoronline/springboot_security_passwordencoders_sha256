@@ -1,4 +1,4 @@
-package com.ivoronlne.springboot_security_passwordencoders_sha256.config;
+package com.ivoronlne.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
